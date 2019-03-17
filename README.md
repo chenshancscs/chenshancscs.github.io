@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## 野生产品经理实用手册
 
-You can use the [editor on GitHub](https://github.com/chenshancscs/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenshancscs/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [小团队如何管理项目Wiki](https://www.evernote.com/shard/s98/client/snv?noteGuid=15ffb3be-5422-4464-8425-27a38078dc80&noteKey=7fe322dc38d73295c00d46588b4ad706&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs98%2Fsh%2F15ffb3be-5422-4464-8425-27a38078dc80%2F7fe322dc38d73295c00d46588b4ad706&title=%25E5%25B0%258F%25E5%259B%25A2%25E9%2598%259F%25E5%25A6%2582%25E4%25BD%2595%25E7%25AE%25A1%25E7%2590%2586%25E9%25A1%25B9%25E7%259B%25AEWiki)
